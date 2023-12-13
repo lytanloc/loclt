@@ -8,5 +8,6 @@ namespace buoi_4.models
 {
     internal class student
     {
+        public int MSSV { get; set; }
     }
 }
